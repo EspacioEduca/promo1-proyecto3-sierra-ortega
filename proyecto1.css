@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(206, 166, 241);
+}
+.parte1{
+    border:solid 20px rgb(208, 166, 241);
+}
+.parte11{
+    font-family:'Britannic Bold ';
+    text-align:center;
+    border: solid 10px rgb(151, 75, 209)  ;
+}
+.parte12{
+     
+    margin-left: 500px;
+     padding: 60px;
+}
+.hada1{
+    width: 300px;
+}
+.parte13{
+    display: flex;
+    justify-content: space-around;
+}
+.boton2{
+    background-color: rgb(183, 12, 235);
+    width: 100px;
+}
+.boton1{
+    background-color: rgb(253, 255, 152);
+    width: 100px;
+}
+
+ 
